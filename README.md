@@ -1,4 +1,4 @@
-### Wassup! I'm known on the internet as Mosuka, but my real name is Lucas Lima, i'm a brazilian teenager who likes who likes to mess with codes 🤓
+### Wassup! I'm known on the internet as Mosuka, but my real name is Lucas Lima, i'm a brazilian teenager who likes to mess with codes 🤓
 
 ![Lucas Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosukaSan&show_icons=true&theme=radical)
 
