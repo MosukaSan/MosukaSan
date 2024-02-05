@@ -11,7 +11,7 @@
 
 ##
 
-### Languages that I know: (I think)
+### Languages that I use:
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,cs,java)](https://skillicons.dev)
 
