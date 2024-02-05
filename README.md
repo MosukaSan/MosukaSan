@@ -13,7 +13,7 @@
 
 ### Languages that I know: (I think)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,cs,java)](https://skillicons.dev)
 
 + **Kotlin, Python, C#, Java**
 
