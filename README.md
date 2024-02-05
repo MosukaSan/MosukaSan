@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,cs)](https://skillicons.dev)
 
-+ **Kotlin, Python, C#**
++ **Kotlin, Python, C#, Java**
 
 ##
 
