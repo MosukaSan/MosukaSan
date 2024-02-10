@@ -13,9 +13,9 @@
 
 ### Languages that I use:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,html,css)](https://skillicons.dev)
 
-+ **Java, Kotlin, Python, C#**
++ **Java, Kotlin, Python, C#, HTML, CSS**
 
 ##
 
