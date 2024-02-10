@@ -15,7 +15,7 @@
 
 ### Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs)](https://skillicons.dev)
 
 + **Java, Kotlin, Python, C#,**
 
