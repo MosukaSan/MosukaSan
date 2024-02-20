@@ -15,9 +15,9 @@
 
 ### Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)](https://skillicons.dev)
 
-+ **Java, Kotlin, Python, C#,**
++ **Java, Kotlin, C#,**
 
 ##
 
@@ -29,11 +29,11 @@
 
 ##
 
-### Tools that I use for programming:
+### Programming tools:
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio)](https://skillicons.dev)
 
-+ **Android Studio, Intellij, PyCharm, Visual Studio Code, Visual Studio.**
++ **Android Studio, Intellij, Visual Studio Code, Visual Studio.**
 
 ##
 
@@ -44,7 +44,7 @@
 
 ##
 
-### Other tools
+### Other tools:
 
 [![My Skills](https://skillicons.dev/icons?i=aftereffects,premiere,photoshop,illustrator,blender,)](https://skillicons.dev)
 
