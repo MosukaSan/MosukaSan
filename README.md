@@ -1,11 +1,5 @@
 ### Wassup! I'm known on the internet as Mosuka, but my real name is Lucas Lima, i'm a brazilian teenager who likes to mess with codes 🤓
 
-![Lucas Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosukaSan&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosukaSan)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MosukaSan)
-
 ##
 
 ### Social Media:
@@ -49,6 +43,16 @@
 [![My Skills](https://skillicons.dev/icons?i=aftereffects,premiere,photoshop,illustrator,blender,)](https://skillicons.dev)
 
 + **After Effects, Premiere Pro, Photoshop, Illustrator, Blender.**
+
+##
+
+### Stats:
+
+![Lucas Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosukaSan&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosukaSan)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MosukaSan)
 
 ##
 
