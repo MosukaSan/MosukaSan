@@ -3,7 +3,7 @@
 ##
 
 ### Social Media:
-[![blog](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/lucasligos?igsh=MTVkN2R3anY3MzdhaA==)
+[![blog](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasligos?igsh=MTVkN2R3anY3MzdhaA==)
 
 ##
 
