@@ -11,15 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py)](https://skillicons.dev)
 
-+ **Java, Kotlin, C#,**
-
-##
-
-### Front-end:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
-+ **HTML, CSS**
++ **Java, Kotlin, C#, Python**
 
 ##
 
