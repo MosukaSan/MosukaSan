@@ -30,6 +30,18 @@
 
 ##
 
+### Database:
+[![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
++ **MongoDB.**
+
+##
+
+### OS:
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,arch)](https://skillicons.dev)
++ **Windows, Linux, Arch Linux.**
+
+##
+
 ### Other tools:
 
 [![My Skills](https://skillicons.dev/icons?i=aftereffects,premiere,photoshop,illustrator,blender,)](https://skillicons.dev)
