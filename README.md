@@ -9,7 +9,7 @@
 
 ### Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py,lua,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py,lua,js)](https://skillicons.dev)
 
 + **Java, Kotlin, C#, Python, Lua, Javascript**
 
