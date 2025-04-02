@@ -9,9 +9,17 @@
 
 ### Back-end:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,py,lua,js,ts)](https://skillicons.dev)
 
-+ **Java, Kotlin, C#, Python, Lua**
++ **Java, Kotlin, C#, Python, Lua, Javascript**
+
+##
+
+### Front-end:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
++ **HTML, CSS, Javascript**
 
 ##
 
